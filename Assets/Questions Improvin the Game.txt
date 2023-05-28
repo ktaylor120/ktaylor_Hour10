@@ -1,0 +1,11 @@
+Questions: Improvin the Game
+1. The game is not very hard because you can't lose, but to score, the game is not easy either.
+2.  Adding variant Chaos balls would make the score more difficult.
+3. More colors and timer for a wow factor.
+4. The parts of the game that is fun is when you score, but positioning the balls and avoiding the chaos balls is tedious 
+
+
+Added a Choas ball Variant with new color material
+Added a Timer 
+changed size of bumper 
+added chaos ball goal
